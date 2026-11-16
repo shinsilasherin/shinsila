@@ -1,3 +1,4 @@
 hello
 simple
 icecream
+aws is a cloud platform
