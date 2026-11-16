@@ -1,0 +1,12 @@
+---
+- name: create users used by loop
+  hosts: all
+  tasks:
+    - name: create and configure users account
+      user:
+        name: "{{item}}"
+        state: present
+      loop:
+        - user4
+        - user5
+        - user8
