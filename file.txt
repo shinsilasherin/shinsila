@@ -2,3 +2,4 @@ hello
 simple
 icecream
 aws is a cloud platform
+shinsila is a fool
