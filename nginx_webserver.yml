@@ -3,3 +3,4 @@
   hosts: all
   roles:
     - nginx_webserver
+Ansible task added by Sruthi
